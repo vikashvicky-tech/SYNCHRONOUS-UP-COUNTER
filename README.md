@@ -65,6 +65,9 @@ endmodule
 
 
 **TIMING DIAGRAM FOR IP COUNTER**
+
+
+
 **SYNCHRONOUS-UP-COUNTER:**
 <img width="1918" height="167" alt="image" src="https://github.com/user-attachments/assets/3008e2c4-8fa1-42e0-b5f5-01fee804cd84" />
 **SYNCHRONOUS-DOWN-COUNTER:**
