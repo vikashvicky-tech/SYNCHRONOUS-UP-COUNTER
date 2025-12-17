@@ -59,7 +59,12 @@ endmodule
 <img width="1400" height="742" alt="Screenshot 2025-12-10 113204" src="https://github.com/user-attachments/assets/32dc1b2d-9b2f-4a1f-91bf-408b80a80245" />
 
 **TIMING DIAGRAM FOR IP COUNTER**
-<img width="1887" height="488" alt="Screenshot 2025-12-10 113351" src="https://github.com/user-attachments/assets/6543d2d2-52e1-4805-9a45-1f783fb9f5d2" />
+**SYNCHRONOUS-UP-COUNTER:**
+<img width="1918" height="167" alt="image" src="https://github.com/user-attachments/assets/3008e2c4-8fa1-42e0-b5f5-01fee804cd84" />
+**SYNCHRONOUS-DOWN-COUNTER:**
+<img width="1919" height="174" alt="image" src="https://github.com/user-attachments/assets/e3a34851-804b-4049-acd3-775377a680ad" />
+
+
 
 **TRUTH TABLE**
 
