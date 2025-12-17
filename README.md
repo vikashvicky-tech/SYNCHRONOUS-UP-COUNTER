@@ -56,7 +56,11 @@ endmodule
 
 
 **RTL LOGIC UP COUNTER**
-<img width="1400" height="742" alt="Screenshot 2025-12-10 113204" src="https://github.com/user-attachments/assets/32dc1b2d-9b2f-4a1f-91bf-408b80a80245" />
+**SYNCHRONOUS-UP-COUNTER:**
+<img width="1600" height="863" alt="image" src="https://github.com/user-attachments/assets/abede820-8306-4e51-bb76-057061a31d5f" />
+**SYNCHRONOUS-DOWN-COUNTER:**
+<img width="1638" height="857" alt="image" src="https://github.com/user-attachments/assets/882fedc6-55dd-4bfc-9e7a-f3caf67cd48f" />
+
 
 **TIMING DIAGRAM FOR IP COUNTER**
 **SYNCHRONOUS-UP-COUNTER:**
