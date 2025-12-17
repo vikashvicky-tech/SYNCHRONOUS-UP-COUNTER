@@ -56,6 +56,8 @@ endmodule
 
 
 **RTL LOGIC UP COUNTER**
+
+
 **SYNCHRONOUS-UP-COUNTER:**
 <img width="1600" height="863" alt="image" src="https://github.com/user-attachments/assets/abede820-8306-4e51-bb76-057061a31d5f" />
 **SYNCHRONOUS-DOWN-COUNTER:**
